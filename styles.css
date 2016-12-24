@@ -1,0 +1,55 @@
+body{
+  background:#E0FFFF;
+}
+
+h1{
+  font-family:cursive;
+  color:#F08080;
+}
+h2{
+  font-family:cursive;
+  color: #8B3A3A ;
+}
+.jumbotron{
+  background:#BFEFFF;
+}
+
+#weatherIcon{
+  padding:20px;
+}
+
+#condition{
+   padding:5px;
+  font-family:cursive;
+  font-size:30px;
+  font-weight:bold;
+   color: #1874CD;
+}
+
+#temprature{
+  padding:5px;
+  font-family:Cursive;
+  font-size:25px;
+  font-weight:bold;
+  color: #B8860B;
+}
+
+#location{
+  padding:5px;
+  font-family:Cursive;
+  font-size:18px;
+  font-weight:bold;
+  color: #006400 ;
+}
+
+#units{
+  padding:5px;
+}
+
+.resize {
+    width: 15%;
+    height: auto;
+}
+footer{
+  background:#838B8B;
+}
